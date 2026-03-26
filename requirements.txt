@@ -1,0 +1,7 @@
+accelerate
+anyio
+gradio
+librosa
+python
+python-multipart
+transformers
