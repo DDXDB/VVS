@@ -1,7 +1,5 @@
-accelerate
-anyio
-gradio
-librosa
-python
-python-multipart
 transformers
+librosa
+soundfile
+gradio
+accelerate
